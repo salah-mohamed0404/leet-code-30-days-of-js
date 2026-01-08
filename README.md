@@ -14,7 +14,8 @@ Problems focusing on JavaScript closures, function scope, and lexical environmen
 
 **Problems:**
 
-- ***
+- [Create Hello World Function](./closures/2667-create-hello-world-function/)
+- [Counter](./closures/2620-counter/)
 
 ### [Basic Array Transformations](./basic-array-transformations/)
 
