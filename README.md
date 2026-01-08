@@ -42,6 +42,7 @@ Higher-order functions and function composition patterns.
 **Problems:**
 
 - [Function Composition](./function-transformations/2629-function-composition/)
+- [Return Length of Arguments Passed](./function-transformations/2703-return-length-of-arguments-passed/)
 
 **Status:** 🔴 Not Started
 
