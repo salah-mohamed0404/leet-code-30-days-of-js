@@ -29,7 +29,8 @@ Array manipulation and transformation techniques.
 
 **Problems:**
 
-- [Apply Transform Over Each Element in Array](./basic-array-transformations/apply-transform-over-each-element-in-array/)
+- [Apply Transform Over Each Element in Array](./basic-array-transformations/2635-apply-transform-over-each-element-in-array/)
+- [Filter Elements from Array](./basic-array-transformations/2634-filter-elements-from-array/)
 
 ### [Function Transformations](./function-transformations/)
 
