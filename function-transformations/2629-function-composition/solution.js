@@ -2,7 +2,7 @@
  * @param {Function[]} functions
  * @return {Function}
  */
-var compose = function (functions) {
+const compose = function (functions) {
 	return function (x) {
 		let value = x;
 
