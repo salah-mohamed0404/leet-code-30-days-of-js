@@ -41,10 +41,10 @@ Higher-order functions and function composition patterns.
 
 **Problems:**
 
-- [Memoize](./function-transformations/ 2623-memoize/)
 - [Function Composition](./function-transformations/2629-function-composition/)
 - [Return Length of Arguments Passed](./function-transformations/2703-return-length-of-arguments-passed/)
 - [Allow One Function Call](./function-transformations/2666-allow-one-function-call/)
+- [Memoize](./function-transformations/2623-memoize/)
 
 ### [Promises and Time](./promises-and-time/)
 
