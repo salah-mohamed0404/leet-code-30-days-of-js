@@ -29,7 +29,7 @@ Array manipulation and transformation techniques.
 
 **Problems:**
 
-- ***
+- [Apply Transform Over Each Element in Array](./basic-array-transformations/apply-transform-over-each-element-in-array/)
 
 ### [Function Transformations](./function-transformations/)
 
