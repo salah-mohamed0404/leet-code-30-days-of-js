@@ -4,3 +4,4 @@
 
 - [Apply Transform Over Each Element in Array](./2635-apply-transform-over-each-element-in-array/)
 - [Filter Elements from Array](./2634-filter-elements-from-array/)
+- [Array Reduce Transformation](./2626-array-reduce-transformation/)
