@@ -8,65 +8,53 @@ The 30 Days of JavaScript study plan covers essential JavaScript concepts includ
 
 ## Problem Categories
 
-### 🔄 [Closures](./closures/)
+### [Closures](./closures/)
 
 Problems focusing on JavaScript closures, function scope, and lexical environment.
 
 **Problems:**
 
--
+- ***
 
----
-
-### 🎯 [Basic Array Transformations](./basic-array-transformations/)
+### [Basic Array Transformations](./basic-array-transformations/)
 
 Array manipulation and transformation techniques.
 
 **Problems:**
 
--
+- ***
 
----
-
-### ⚙️ [Function Transformations](./function-transformations/)
+### [Function Transformations](./function-transformations/)
 
 Higher-order functions and function composition patterns.
 
 **Problems:**
 
--
+- ***
 
----
-
-### ⏰ [Promises and Time](./promises-and-time/)
+### [Promises and Time](./promises-and-time/)
 
 Asynchronous JavaScript, promises, and time-based operations.
 
 **Problems:**
 
--
+- ***
 
----
-
-### 📦 [JSON](./json/)
+### [JSON](./json/)
 
 Working with JSON data, parsing, and manipulation.
 
 **Problems:**
 
--
+- ***
 
----
-
-### 🏗️ [Classes](./classes/)
+### [Classes](./classes/)
 
 Object-oriented programming concepts, classes, and prototypes.
 
 **Problems:**
 
--
-
----
+- ***
 
 ## Progress Tracker
 
