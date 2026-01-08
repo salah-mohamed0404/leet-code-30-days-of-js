@@ -19,6 +19,7 @@ Problems focusing on JavaScript closures, function scope, and lexical environmen
 - [Create Hello World Function](./closures/2667-create-hello-world-function/)
 - [Counter](./closures/2620-counter/)
 - [To Be Or Not To Be](./closures/2704-to-be-or-not-to-be/)
+- [Counter II](./closures/2665-counter-ii/)
 
 ### [Basic Array Transformations](./basic-array-transformations/)
 
