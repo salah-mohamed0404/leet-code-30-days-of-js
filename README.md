@@ -35,19 +35,20 @@ Array manipulation and transformation techniques.
 
 ### [Function Transformations](./function-transformations/)
 
-**Status:** 🟡 In Progress
+**Status:** 🟢 Completed
 
 Higher-order functions and function composition patterns.
 
 **Problems:**
 
+- [Memoize](./function-transformations/ 2623-memoize/)
 - [Function Composition](./function-transformations/2629-function-composition/)
 - [Return Length of Arguments Passed](./function-transformations/2703-return-length-of-arguments-passed/)
 - [Allow One Function Call](./function-transformations/2666-allow-one-function-call/)
 
-**Status:** 🔴 Not Started
-
 ### [Promises and Time](./promises-and-time/)
+
+**Status:** 🟡 In Progress
 
 Asynchronous JavaScript, promises, and time-based operations.
 
@@ -55,9 +56,9 @@ Asynchronous JavaScript, promises, and time-based operations.
 
 - ***
 
-**Status:** 🔴 Not Started
-
 ### [JSON](./json/)
+
+**Status:** 🔴 Not Started
 
 Working with JSON data, parsing, and manipulation.
 
@@ -65,9 +66,9 @@ Working with JSON data, parsing, and manipulation.
 
 - ***
 
-**Status:** 🔴 Not Started
-
 ### [Classes](./classes/)
+
+**Status:** 🔴 Not Started
 
 Object-oriented programming concepts, classes, and prototypes.
 
