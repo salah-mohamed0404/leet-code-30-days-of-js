@@ -78,9 +78,9 @@ Object-oriented programming concepts, classes, and prototypes.
 
 ## Progress Tracker
 
-- [ ] Closures
-- [ ] Basic Array Transformations
-- [ ] Function Transformations
+- [x] Closures
+- [x] Basic Array Transformations
+- [x] Function Transformations
 - [ ] Promises and Time
 - [ ] JSON
 - [ ] Classes
