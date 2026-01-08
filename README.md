@@ -41,7 +41,7 @@ Higher-order functions and function composition patterns.
 
 **Problems:**
 
-- ***
+- [Function Composition](./function-transformations/2629-function-composition/)
 
 **Status:** 🔴 Not Started
 
